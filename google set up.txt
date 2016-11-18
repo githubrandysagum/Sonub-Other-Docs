@@ -4,3 +4,7 @@ google secret: EgiDVDljvYpqyWkUz25VHMHo
 
 Twitter Consumer Key (API Key): Oci9EnkNJd2JVkmIUqGuFdbqH
 Twitter Consumer Secret (API Secret): 9iaHj70R5zRyHBvPKlkrnYPPqxeYunpMdIqyzosq5rqFXvFmyT
+
+
+Instagram Client_ID : cfb7f6e438434cecac608a45a1a5497a
+Instagram Client_secret : eec7a66279c44c25af848cfb6127528f 

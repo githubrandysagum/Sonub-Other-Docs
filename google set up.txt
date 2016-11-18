@@ -1,0 +1,6 @@
+google_id: 606007317908-lkp8n6aq0htllubkv4phhdd7crf93oar.apps.googleusercontent.com
+google secret: EgiDVDljvYpqyWkUz25VHMHo
+
+
+Twitter Consumer Key (API Key): Oci9EnkNJd2JVkmIUqGuFdbqH
+Twitter Consumer Secret (API Secret): 9iaHj70R5zRyHBvPKlkrnYPPqxeYunpMdIqyzosq5rqFXvFmyT
